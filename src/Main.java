@@ -1,7 +1,5 @@
 //Sakina Master
-//Net Id: smaste3
-//Email: smaste3@uic.edu
-//Project2: Implementing a card game Pitch in Java and creating a GUI utilizing JavaFX.
+//Implementing a card game Pitch in Java and creating a GUI utilizing JavaFX.
 
 import java.util.HashMap;
 import javafx.application.Application;
@@ -408,7 +406,6 @@ enum FaceName {
         this.faceValue = cardValue;
     }
 }
-
 
 interface DealerType {
     Dealer createDealer();
